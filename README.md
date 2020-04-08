@@ -1,3 +1,6 @@
+# Second example of the book ng-book-angular 9
+[https://xiron9090.github.io/inventory-app/](https://xiron9090.github.io/inventory-app/)
+
 # InventoryApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.

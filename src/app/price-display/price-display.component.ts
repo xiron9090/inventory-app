@@ -3,10 +3,7 @@ import {
   Input
 } from '@angular/core';
 
-/**
- * @PriceDisplay: A component to show the price of a
- * Product
- */
+
 @Component({
   selector: 'price-display',
   template: `
